@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 5 \u2013 Recombination in Semiconductors"
 uid: 4200a67d-47fb-fa2e-95c0-90f56c3feb6d

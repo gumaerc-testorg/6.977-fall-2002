@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 4 \u2013 Semiconductor Optical Amplifiers"
 uid: a38b0127-274a-51d4-6733-17e471b32d21

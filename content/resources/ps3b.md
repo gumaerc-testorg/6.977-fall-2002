@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 3 \u2013 Electroabsorption Modulators"
 uid: 010c9029-906a-d460-509b-f2bd05ceaf17

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 6 \u2013 Semiconductor Lasers"
 uid: f212c9ce-e3a0-34d1-6884-2fee1ade4517

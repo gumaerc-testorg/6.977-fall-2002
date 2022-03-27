@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9ef5a9d-61f3-a1c8-18bc-09c45f924292
 resourcetype: Document
 title: "Problem Set 7 \u2013 Material Properties"
 uid: 50ac11af-5e06-472f-c5a8-e0ee457882d6
