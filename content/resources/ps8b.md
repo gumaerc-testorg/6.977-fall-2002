@@ -7,6 +7,7 @@ file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/7
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: "Problem Set 8 \u2013 Complex Optical Resonators"
 uid: 73878059-b081-6121-fb05-c9c9f00c3fac
 ---
 Problem set on complex optical resonators, surface emitting laser cavity design, surface emitting laser design, tunable laser design, and the threshold properties of a distributed feedback laser.
-

@@ -9,6 +9,7 @@ file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,5 +20,3 @@ uid: f212c9ce-e3a0-34d1-6884-2fee1ade4517
 ---
 Problem set on semiconductor lasers, the relationship between the cavity and gain parameters and the laser L-I curves, the relationship between the spectral properties of a Fabry-Perot laser and the properties of the
 laser active region, a low-threshold current laser, and the optical and electrical properties of a semiconductor laser diode.
-
-

@@ -8,6 +8,7 @@ file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: "Problem Set 7 \u2013 Material Properties"
 uid: 50ac11af-5e06-472f-c5a8-e0ee457882d6
 ---
 Problem set on material properties, the relationship between material parameters, the properties of the InGaAsP material system, the design trade-off often encountered in quantum well materials, the Harrison Atomic Orbital theory applied to the determination of various band discontinuities.
-
