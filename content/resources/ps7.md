@@ -5,6 +5,7 @@ description: Problem set on material properties, the relationship between materi
   often encountered in quantum well materials, the Harrison Atomic Orbital theory
   applied to the determination of various band discontinuities.
 file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/50ac11af5e06472fc5a8e0ee457882d6_ps7.pdf
+file_size: 119191
 file_type: application/pdf
 learning_resource_types:
 - Assignments
