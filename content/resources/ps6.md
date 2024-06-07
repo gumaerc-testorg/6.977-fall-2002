@@ -6,6 +6,7 @@ description: "Problem set on semiconductor lasers, the relationship between the 
   \ a low-threshold current laser, and the optical and electrical properties of a\
   \ semiconductor laser diode.\r\n"
 file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/f212c9cee3a034d168842fee1ade4517_ps6.pdf
+file_size: 157816
 file_type: application/pdf
 learning_resource_types:
 - Assignments

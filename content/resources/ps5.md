@@ -5,6 +5,7 @@ description: Problem set on recombination in semiconductors, the spontaneous emi
   semiconductor, and the method of graphical solution for the effective index of a
   waveguide.
 file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/4200a67d47fbfa2e95c090f56c3feb6d_ps5.pdf
+file_size: 118473
 file_type: application/pdf
 learning_resource_types:
 - Assignments
