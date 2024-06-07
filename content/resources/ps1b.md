@@ -5,6 +5,7 @@ description: "Problem set on semiconductor electronics, approximations to the Fe
   \ of equilibrium, SimWindows. A MATLAB\xAE tutorial is included for first time users\
   \ and as a relevant example for more experienced MATLAB\xAE users. "
 file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/f5c736cdd27ea744b80ee310ae9640c6_ps1b.pdf
+file_size: 212383
 file_type: application/pdf
 learning_resource_types:
 - Assignments

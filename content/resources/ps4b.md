@@ -4,6 +4,7 @@ description: "Problem set on the electrical properties of a quantum well semicon
   \ optical amplifier and gain saturation in an optical amplifier and its application\
   \ to optical switching.\r\n"
 file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/a38b0127274a51d4673317e471b32d21_ps4b.pdf
+file_size: 126913
 file_type: application/pdf
 learning_resource_types:
 - Assignments
