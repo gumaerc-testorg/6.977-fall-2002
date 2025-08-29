@@ -3,7 +3,7 @@ content_type: resource
 description: "Problem set on the design of a quantum well electroabsorption modulator\
   \ and the effect of finite quantum wells on the Quantum Confined Stark Effect. \r\
   \n\r\n\r\n\r\n"
-file: /courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/010c9029906ad460509bf2bd05ceaf17_ps3b.pdf
+file: /ol-ocw-studio-app/courses/6-977-semiconductor-optoelectronics-theory-and-design-fall-2002/010c9029906ad460509bf2bd05ceaf17_ps3b.pdf
 file_size: 146887
 file_type: application/pdf
 learning_resource_types:
